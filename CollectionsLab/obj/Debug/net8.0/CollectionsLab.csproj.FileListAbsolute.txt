@@ -1,0 +1,14 @@
+C:\Users\rost\source\repos\CollectionsLab\CollectionsLab\bin\Debug\net8.0\CollectionsLab.exe
+C:\Users\rost\source\repos\CollectionsLab\CollectionsLab\bin\Debug\net8.0\CollectionsLab.deps.json
+C:\Users\rost\source\repos\CollectionsLab\CollectionsLab\bin\Debug\net8.0\CollectionsLab.runtimeconfig.json
+C:\Users\rost\source\repos\CollectionsLab\CollectionsLab\bin\Debug\net8.0\CollectionsLab.dll
+C:\Users\rost\source\repos\CollectionsLab\CollectionsLab\bin\Debug\net8.0\CollectionsLab.pdb
+C:\Users\rost\source\repos\CollectionsLab\CollectionsLab\obj\Debug\net8.0\CollectionsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rost\source\repos\CollectionsLab\CollectionsLab\obj\Debug\net8.0\CollectionsLab.AssemblyInfoInputs.cache
+C:\Users\rost\source\repos\CollectionsLab\CollectionsLab\obj\Debug\net8.0\CollectionsLab.AssemblyInfo.cs
+C:\Users\rost\source\repos\CollectionsLab\CollectionsLab\obj\Debug\net8.0\CollectionsLab.csproj.CoreCompileInputs.cache
+C:\Users\rost\source\repos\CollectionsLab\CollectionsLab\obj\Debug\net8.0\CollectionsLab.dll
+C:\Users\rost\source\repos\CollectionsLab\CollectionsLab\obj\Debug\net8.0\refint\CollectionsLab.dll
+C:\Users\rost\source\repos\CollectionsLab\CollectionsLab\obj\Debug\net8.0\CollectionsLab.pdb
+C:\Users\rost\source\repos\CollectionsLab\CollectionsLab\obj\Debug\net8.0\CollectionsLab.genruntimeconfig.cache
+C:\Users\rost\source\repos\CollectionsLab\CollectionsLab\obj\Debug\net8.0\ref\CollectionsLab.dll
